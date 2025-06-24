@@ -8,5 +8,5 @@
 * Did `jekyll new default-site` to get the start up jekyll files
     * Deleted folder `default-site` after taking the minimal set up needed like the `Gemfile`, `_config.yml` and `.gitignore`
 * `bundle install`
+* Add initial `index.md` following Jekyll standard with layout and title in meta data area at top.
 * `bundle exec jekyll serve`
-

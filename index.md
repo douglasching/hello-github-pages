@@ -5,4 +5,4 @@ title: Home
 
 # This is the homepage
 
-Welcome.
+Welcome to the homepage.

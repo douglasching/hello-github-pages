@@ -1,3 +1,8 @@
-# Index
+---
+layout: default
+title: Home
+---
 
-## Hello
+# This is the homepage
+
+Welcome.
